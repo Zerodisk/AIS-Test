@@ -1,0 +1,332 @@
+﻿{
+    "Sheet1": [
+        {
+            "Date": "2/13/22",
+            "Time Start": "7:20:00",
+            "Time Stop": "8:13:00",
+            "Title": "CUR27 NOR-SWE Men 6 - Round Robin",
+            "Sport Type": "Curling",
+            "Channel": "Winter Olympic 4"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "7:45:00",
+            "Time Stop": "8:28:00",
+            "Title": "BOB01 W Monobob Heat 1 & 2",
+            "Sport Type": "Bobsleigh",
+            "Channel": "Winter Olympic 5"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "8:00:00",
+            "Time Stop": "11:03:00",
+            "Title": "CUR27 CHN-GBR Men 6 - Round Robin",
+            "Sport Type": "Curling",
+            "Channel": "Winter Olympic 7"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "8:00:00",
+            "Time Stop": "11:03:00",
+            "Title": "CUR27 ITA-ROC Men 6 - Round Robin",
+            "Sport Type": "Curling",
+            "Channel": "Winter Olympic 9"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "8:00:00",
+            "Time Stop": "11:03:00",
+            "Title": "CUR27 NOR-SWE Men 6 - Round Robin",
+            "Sport Type": "Curling",
+            "Channel": "Winter Olympic 3"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "8:00:00",
+            "Time Stop": "11:03:00",
+            "Title": "CUR27 USA-CAN Men 6 - Round Robin",
+            "Sport Type": "Curling",
+            "Channel": "Winter Olympic 1"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "8:15:00",
+            "Time Stop": "9:00:00",
+            "Title": "FRS09 W Freeski Slopestyle Qualifications",
+            "Sport Type": "Freestyle Skiing",
+            "Channel": "Winter Olympic 4"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "8:25:00",
+            "Time Stop": "10:48:00",
+            "Title": "BOB01 W Monobob Heat 1 & 2",
+            "Sport Type": "Bobsleigh",
+            "Channel": "Winter Olympic 6"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "8:30:00",
+            "Time Stop": "10:55:00",
+            "Title": "ALP08 M Giant Slalom Run 1",
+            "Sport Type": "Alpine Skiing",
+            "Channel": "Winter Olympic 5"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "8:55:00",
+            "Time Stop": "11:03:00",
+            "Title": "FRS09 W Freeski Slopestyle Qualifications",
+            "Sport Type": "Freestyle Skiing",
+            "Channel": "Winter Olympic 2"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "9:05:00",
+            "Time Stop": "11:18:00",
+            "Title": "ALP08 M Giant Slalom Run 1",
+            "Sport Type": "Alpine Skiing",
+            "Channel": "Winter Olympic 1"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "10:50:00",
+            "Time Stop": "12:15:00",
+            "Title": "IHO39 M SVK-LAT Preliminary Round",
+            "Sport Type": "Ice Hockey",
+            "Channel": "Winter Olympic 6"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "11:00:00",
+            "Time Stop": "13:28:00",
+            "Title": "IHO39 M SVK-LAT Preliminary Round",
+            "Sport Type": "Ice Hockey",
+            "Channel": "Winter Olympic 1"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "11:05:00",
+            "Time Stop": "12:55:00",
+            "Title": "ALP08 M Giant Slalom Run 1",
+            "Sport Type": "Alpine Skiing",
+            "Channel": "Winter Olympic 8"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "12:20:00",
+            "Time Stop": "12:55:00",
+            "Title": "CUR28 DEN-GBR Women 6 - Round Robin",
+            "Sport Type": "Curling",
+            "Channel": "Winter Olympic 6"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "12:35:00",
+            "Time Stop": "15:08:00",
+            "Title": "ALP08 M Giant Slalom Run 2",
+            "Sport Type": "Alpine Skiing",
+            "Channel": "Winter Olympic 1"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "13:00:00",
+            "Time Stop": "16:03:00",
+            "Title": "CUR28 DEN-GBR Women 6 - Round Robin",
+            "Sport Type": "Curling",
+            "Channel": "Winter Olympic 6"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "13:00:00",
+            "Time Stop": "16:03:00",
+            "Title": "CUR28 KOR-CHN Women 6 - Round Robin",
+            "Sport Type": "Curling",
+            "Channel": "Winter Olympic 8"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "13:00:00",
+            "Time Stop": "16:03:00",
+            "Title": "CUR28 SUI-CAN Women 6 - Round Robin",
+            "Sport Type": "Curling",
+            "Channel": "Winter Olympic 9"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "13:00:00",
+            "Time Stop": "16:03:00",
+            "Title": "CUR28 USA-SWE Women 6 - Round Robin",
+            "Sport Type": "Curling",
+            "Channel": "Winter Olympic 7"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "13:30:00",
+            "Time Stop": "15:23:00",
+            "Title": "ALP08 M Giant Slalom Run 2",
+            "Sport Type": "Alpine Skiing",
+            "Channel": "Winter Olympic 5"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "13:50:00",
+            "Time Stop": "15:58:00",
+            "Title": "CCS07 M 4x10km Relay ",
+            "Sport Type": "Cross-Country Skiing",
+            "Channel": "Winter Olympic 1"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "15:15:00",
+            "Time Stop": "17:50:00",
+            "Title": "BTH06 W 10km Pursuit & M 12.5km Pursuit",
+            "Sport Type": "Biathlon",
+            "Channel": "Winter Olympic 4"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "15:30:00",
+            "Time Stop": "17:58:00",
+            "Title": "IHO40 M FIN-SWE Preliminary Round",
+            "Sport Type": "Ice Hockey",
+            "Channel": "Winter Olympic 1"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "15:50:00",
+            "Time Stop": "18:48:00",
+            "Title": "BTH06 W 10km Pursuit & M 12.5km Pursuit",
+            "Sport Type": "Biathlon",
+            "Channel": "Winter Olympic 2"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "16:05:00",
+            "Time Stop": "18:13:00",
+            "Title": "IHO40 M FIN-SWE Preliminary Round",
+            "Sport Type": "Ice Hockey",
+            "Channel": "Winter Olympic 6"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "17:15:00",
+            "Time Stop": "18:55:00",
+            "Title": "FRS10 W Aerials Qualifications",
+            "Sport Type": "Freestyle Skiing",
+            "Channel": "Winter Olympic 7"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "17:15:00",
+            "Time Stop": "19:58:00",
+            "Title": "STK05 M 500m Finals & W 3000m Relay Final",
+            "Sport Type": "Short Track Speed Skating",
+            "Channel": "Winter Olympic 8"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "17:55:00",
+            "Time Stop": "19:18:00",
+            "Title": "FRS10 W Aerials Qualifications",
+            "Sport Type": "Freestyle Skiing",
+            "Channel": "Winter Olympic 1"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "17:55:00",
+            "Time Stop": "19:43:00",
+            "Title": "STK05 M 500m Finals & W 3000m Relay Final",
+            "Sport Type": "Short Track Speed Skating",
+            "Channel": "Winter Olympic 3"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "18:00:00",
+            "Time Stop": "18:53:00",
+            "Title": "BTH06 W 10km Pursuit & M 12.5km Pursuit",
+            "Sport Type": "Biathlon",
+            "Channel": "Winter Olympic 5"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "18:26:00",
+            "Time Stop": "18:57:00",
+            "Title": "MDL16 Daily Medals ceremonies (from Zhangjiakou Medals Plaza)",
+            "Sport Type": "Victory Ceremonies",
+            "Channel": "Winter Olympic 6"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "19:00:00",
+            "Time Stop": "22:03:00",
+            "Title": "CUR29 CHN-USA Men 7 - Round Robin",
+            "Sport Type": "Curling",
+            "Channel": "Winter Olympic 1"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "19:00:00",
+            "Time Stop": "22:03:00",
+            "Title": "CUR29 GBR-DEN Men 7 - Round Robin",
+            "Sport Type": "Curling",
+            "Channel": "Winter Olympic 5"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "19:00:00",
+            "Time Stop": "22:03:00",
+            "Title": "CUR29 SUI-ITA Men 7 - Round Robin",
+            "Sport Type": "Curling",
+            "Channel": "Winter Olympic 7"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "19:15:00",
+            "Time Stop": "22:08:00",
+            "Title": "SSK08 M Team Pursuit QFs - W 500m",
+            "Sport Type": "Speed Skating",
+            "Channel": "Winter Olympic 6"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "19:55:00",
+            "Time Stop": "21:58:00",
+            "Title": "SSK08 M Team Pursuit QFs - W 500m",
+            "Sport Type": "Speed Skating",
+            "Channel": "Winter Olympic 2"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "20:00:00",
+            "Time Stop": "22:28:00",
+            "Title": "IHO41 M CHN-CAN Preliminary Round",
+            "Sport Type": "Ice Hockey",
+            "Channel": "Winter Olympic 3"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "20:00:00",
+            "Time Stop": "22:28:00",
+            "Title": "IHO42 M USA-GER Preliminary Round",
+            "Sport Type": "Ice Hockey",
+            "Channel": "Winter Olympic 4"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "20:00:00",
+            "Time Stop": "22:43:00",
+            "Title": "IHO42 M USA-GER Preliminary Round",
+            "Sport Type": "Ice Hockey",
+            "Channel": "Winter Olympic 8"
+        },
+        {
+            "Date": "2/13/22",
+            "Time Start": "22:10:00",
+            "Time Stop": "22:43:00",
+            "Title": "IHO41 M CHN-CAN Preliminary Round",
+            "Sport Type": "Ice Hockey",
+            "Channel": "Winter Olympic 6"
+        }
+    ]
+}
